@@ -1,0 +1,1 @@
+Kız Başına Bootcamp Power BI Proje Ödevi. E-ticaret verilerinden "Kırtasiyeler" markası filtrelenerek yapıldı. Dosya boyutu büyük kaldığı için PDF olarak yüklendi, Power BI dosyasının drive linki: https://drive.google.com/file/d/1Sxc2wdSdn_5akzj6Hi8tBlTKCmxK1I66/view?usp=sharing
